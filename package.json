@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for couchapp (v0.11.0) [![npm package](https://img.shields.io/npm/v/npmtest-couchapp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-couchapp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-couchapp.svg)](https://travis-ci.org/npmtest/node-npmtest-couchapp)",
+    "description": "#### basic test coverage for  couchapp (v0.11.0)  [![npm package](https://img.shields.io/npm/v/npmtest-couchapp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-couchapp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-couchapp.svg)](https://travis-ci.org/npmtest/node-npmtest-couchapp)",
     "devDependencies": {
         "couchapp": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

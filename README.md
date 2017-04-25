@@ -1,4 +1,7 @@
-# test coverage for  couchapp (v0.11.0)  [![npm package](https://img.shields.io/npm/v/npmtest-couchapp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-couchapp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-couchapp.svg)](https://travis-ci.org/npmtest/node-npmtest-couchapp)
+# npmtest-couchapp
+
+#### basic test coverage for  couchapp (v0.11.0)  [![npm package](https://img.shields.io/npm/v/npmtest-couchapp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-couchapp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-couchapp.svg)](https://travis-ci.org/npmtest/node-npmtest-couchapp)
+
 #### Utilities for building CouchDB applications.
 
 [![NPM](https://nodei.co/npm/couchapp.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/couchapp)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-couchapp/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-couchapp/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-couchapp/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-couchapp/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-couchapp/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-couchapp/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-couchapp/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-couchapp/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-couchapp/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-couchapp/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-couchapp/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-couchapp/build/coverage.html/index.html)
 
